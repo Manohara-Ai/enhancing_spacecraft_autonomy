@@ -1,16 +1,16 @@
 # 🛰️ RL-Guided Planetary Navigation using Synthetic Terrain Generation
 
-This repository contains the code and resources for a research project exploring reinforcement learning (RL)-based autonomous navigation across planetary surfaces. We enhance learning by augmenting terrain data using generative models such as GANs, WGANs, and Diffusion Models — all enforced with scientific constraints to improve generalization and realism.
+This repository contains the code and resources for a research project exploring reinforcement learning (RL)-based autonomous navigation across planetary surfaces. We enhance learning by augmenting terrain data using generative models such as WGANs, and Diffusion Models — all enforced with scientific constraints to improve generalization and realism.
 
 ![Sample Terrain Output](terrain_map.png)  
-<p align="center"><i>Example of generated planetary terrain</i></p>
+<p align="center"><i>Example of planetary terrain</i></p>
 
 ---
 
 ## 🎥 Demo
 
 ![RL Navigation Demo](results/agent_path3.gif)  
-<p align="center"><i>RL agent navigating synthetic terrain</i></p>
+<p align="center"><i>RL agent navigating planetary terrain</i></p>
 
 ---
 
