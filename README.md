@@ -44,7 +44,7 @@ Diffusion-generated terrains led to smoother convergence and more robust navigat
 
 ## Acknowledgements
 
-Terrain generation code for GANs and diffusion models adapted from ![Aladdin Persson's ML Collection](https://github.com/aladdinpersson/Machine-Learning-Collection). We thank RVCE, the ETE Department, and Dr. Niranjana K M (Faculty Advisor, Dhruva – RVCE’s Astrophysics Club) for their support. Special thanks to Dhruva and all co-authors who contributed to this research.
+Terrain generation code for GANs and diffusion models adapted from ![Aladdin Persson's ML Collection](https://github.com/aladdinpersson/Machine-Learning-Collection). We thank RVCE, the ETE Department, and Dr. Niranjana K M (Faculty Advisor, Dhruva – RVCE’s Astrophysics Club) and Dr. Karthik Shastry for their support. Special thanks to Dhruva and all co-authors who contributed to this research.
 
 ---
 
