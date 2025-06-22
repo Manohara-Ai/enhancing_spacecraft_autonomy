@@ -50,7 +50,7 @@ Terrain generation code for GANs and diffusion models adapted from [Aladdin Pers
 
 ## Citation
 
-If you use this code or work in your research, please consider citing our paper (to be updated post-publication).
+[Enhancing Spacecraft Autonomy](https://dl.iafastro.directory/event/GLEX-2025/paper/92567/)
 
 ---
 
